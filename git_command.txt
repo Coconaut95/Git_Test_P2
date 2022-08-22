@@ -13,3 +13,6 @@ ex: git branch -a (new name)
 
 * delete branch on github:
 git push origin --delete (branch to be delete)
+
+* EL VERDADERO SENSEI DEL GIT
+http://johnelder.com/code/git.php
