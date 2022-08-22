@@ -7,7 +7,7 @@ $ git config --global alias.co checkout
 $ git init
 
 * change name of the branch:
-ex: git branch -a (new name)
+ex: git branch -m (new name)
 
 * To push on github: https://www.youtube.com/watch?v=Lk6jCVAS3Iw&ab_channel=Codemy.com
 
