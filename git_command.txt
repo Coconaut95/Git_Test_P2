@@ -1,0 +1,15 @@
+			ON THE MAIN DIRECTORY OF CURRENT WORK
+* Create git repository locally
+$ git config --global user.name "Your Name"
+$ git config --global user.email "you@youraddress.com"
+$ git config --global push.default matching
+$ git config --global alias.co checkout
+$ git init
+
+* change name of the branch:
+ex: git branch -a (new name)
+
+* To push on github: https://www.youtube.com/watch?v=Lk6jCVAS3Iw&ab_channel=Codemy.com
+
+* delete branch on github:
+git push origin --delete (branch to be delete)
